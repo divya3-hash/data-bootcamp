@@ -1,0 +1,5 @@
+emp_id,emp_name,sale_amount,dept,sale_date
+E101,Ankit,5000,Fashion,2023-10-01
+E102,Priya,8000,Fashion,2023-10-01
+E103,Ravi,7000,Electronics,2023-10-02
+E101,Ankit,6000,Fashion,2023-10-03
